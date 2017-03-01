@@ -1,0 +1,14 @@
+C:\Users\Blake\Desktop\School\CSCD371\Assignment3\Watcher\bin\Debug\Watcher.exe.config
+C:\Users\Blake\Desktop\School\CSCD371\Assignment3\Watcher\bin\Debug\Watcher.exe
+C:\Users\Blake\Desktop\School\CSCD371\Assignment3\Watcher\bin\Debug\Watcher.pdb
+C:\Users\Blake\Desktop\School\CSCD371\Assignment3\Watcher\obj\Debug\Watcher.csprojResolveAssemblyReference.cache
+C:\Users\Blake\Desktop\School\CSCD371\Assignment3\Watcher\obj\Debug\Watcher.Properties.Resources.resources
+C:\Users\Blake\Desktop\School\CSCD371\Assignment3\Watcher\obj\Debug\Watcher.csproj.GenerateResource.Cache
+C:\Users\Blake\Desktop\School\CSCD371\Assignment3\Watcher\obj\Debug\Watcher.exe
+C:\Users\Blake\Desktop\School\CSCD371\Assignment3\Watcher\obj\Debug\Watcher.pdb
+C:\Users\Blake\Desktop\School\CSCD371\Assignment3\Watcher\obj\Debug\Watcher.AboutForm.resources
+C:\Users\Blake\Desktop\School\CSCD371\Assignment3\Watcher\bin\Debug\System.Data.SQLite.dll
+C:\Users\Blake\Desktop\School\CSCD371\Assignment3\Watcher\bin\Debug\System.Data.SQLite.xml
+C:\Users\Blake\Desktop\School\CSCD371\Assignment3\Watcher\obj\Debug\Watcher.DatabaseForm.resources
+C:\Users\Blake\Desktop\School\CSCD371\Assignment3\Watcher\obj\Debug\Watcher.FileSystemWatcher.resources
+C:\Users\Blake\Desktop\School\CSCD371\Assignment3\Watcher\obj\Debug\Watcher.QueryForm.resources
